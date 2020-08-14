@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "crypto-js": "^4.0.0",
-    "got": "^11.4.0",
+    "got": "^11.5.1",
     "tough-cookie": "^4.0.0"
   }
 }
